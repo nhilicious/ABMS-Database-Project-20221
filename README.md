@@ -41,3 +41,4 @@ And change the 'Project' to the name of the database
 - Login:
 + Admin account: username: admin1, password admin123
 + Service manager account: username: manager1, password: manager123
++ Tenant account: username: tenant1, password: tenant1123
