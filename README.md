@@ -36,7 +36,7 @@ def login_database(username_entry, password_entry):
     except Exception as e: 
         messagebox.showerror("Error", "Invalid username or password, given: " + str(e)) 
 ```
-And change the 'Project' to the name of the database
+And change the 'Project' to the name of your database
 
 - Login:
 + Admin account: username: admin1, password admin123
