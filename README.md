@@ -37,3 +37,7 @@ def login_database(username_entry, password_entry):
         messagebox.showerror("Error", "Invalid username or password, given: " + str(e)) 
 ```
 And change the 'Project' to the name of the database
+
+- Login:
++ Admin account: username: admin1, password admin123
++ Service manager account: username: manager1, password: manager123
