@@ -12,4 +12,4 @@ psql -h localhost -U postgres -d dbname -f allroles.sql
 psql -h localhost -U postgres -d dbname -f ABMSdatabase_dump.sql
 ```
 
-##2. Set up environment for GUI
+## 2. Set up environment for GUI
