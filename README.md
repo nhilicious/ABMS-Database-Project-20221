@@ -38,14 +38,15 @@ def login_database(username_entry, password_entry):
 ```
 And change the 'Project' to the name of your database
 
-- Login:
-+ Admin account: 
-username: admin1, password admin123
-+ Service manager account: 
-username: manager1, password: manager1123
+Login:
 
-username: manager2, password: manager2123
+Admin account: 
++ username: admin1, password admin123
 
-username: manager3, password: manager3123
+Service manager account: 
++ username: manager1, password: manager1123
++ username: manager2, password: manager2123
++ username: manager3, password: manager3123
 
-+ Tenant account: username: tenant1, password: tenant1123
+Tenant account: username: 
++ tenant1, password: tenant1123
