@@ -1,4 +1,4 @@
-# Apartment Building Managerment System Project - Database Course 20221
+# Apartment Building Management System Project - Database Course 20221
 
 
 ## 1. Import database
